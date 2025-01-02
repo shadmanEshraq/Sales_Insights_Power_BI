@@ -35,7 +35,7 @@ As a result, the sales team can make better, data-driven decisions. Moreover, th
 The data analyst team connects to the SQL database, performs ETL, and based on the primary requirements of the company, builds a dashboard that provides the following insights. 
 </p>
 
-![Add Image](/Images/si_da_pb_db.PNG)  
+![Add Image](/Images/si_da_pb_db.png)  
 
 ⭕ Key Insights 
 
